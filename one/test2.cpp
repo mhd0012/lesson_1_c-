@@ -114,7 +114,8 @@ using namespace std;
 //         cout << number1 << " != " << number2 ;
 // }
 
-
+int number3 = 52;
+string text = "sdfsadf" ;
 
 
 
